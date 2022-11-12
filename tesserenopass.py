@@ -1,6 +1,6 @@
 #importo tutti i pacchetti necessari allo scritp
 from selenium import webdriver
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 import pandas as pd
 
 #setto il browser da usare
